@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JsonParserAcitivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="nm_json">JSON</string>
+    <string name="nm_sort">SORT</string>
+    
+    <string name="progTitle">Json Parser</string>
+    <string name="progStatus">"It's parsing, Please wait!"</string>  
+    
+    <string name="nm_parser">Parser</string>
+    <string name="nm_clear">Clear</string>
+    <string name="nm_exit">Exit</string>
+    
+    <string name="js_retrieved">Retraved</string>
+    <string name="js_sorted">Sorted</string>
+
+    <string name="http_error">"Cannot access http!"</string>  
+
+</resources>
